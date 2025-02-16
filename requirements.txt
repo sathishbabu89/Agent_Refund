@@ -1,0 +1,6 @@
+crewai==0.30.0
+crewai_tools==0.2.3
+langchain_community==0.0.29
+langchain_huggingface==0.0.1  # For Hugging Face integration with langchain
+streamlit==1.20.0  # For creating the UI
+httpcore
